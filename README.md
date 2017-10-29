@@ -1,2 +1,2 @@
 # venus
-spring boot
+spring boot web 脚手架
